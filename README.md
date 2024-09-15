@@ -1,5 +1,7 @@
-# Machine Learning Specialization with DeepLEarning.AI and Stanford University
+# Machine Learning Specialization with DeepLearning.AI and Stanford University
 Here are some of the labs that I made in the ML specialization.
+
+
 
 ## Multiclass Classification:
 Neural Networks for Handwritten Digit Recognition (multiclass_classification.ipynb)
